@@ -66,7 +66,7 @@ Open platform | Free and accessible |
 
 Zest Academy is built by passionate learners and builders.
 
-- **RSMK** — Co-Founder & Lead Developer  
+- **RSMK** — Co-Founder & Developer  
   
 
 - **Ramu** — Co-Founder & Designer 
@@ -84,7 +84,9 @@ To become a **trusted global learning ecosystem** for engineers — where knowle
 
 ## 🧑‍💻 Maintained by
 
-**RSMK** and **Ramu**
+[**RSMK**](https://github.com/Rsmk27) 
+&
+[**Ramu**](https://github.com/ramunarlapati-13)
 
 > “Education should not prepare you for life.  
 > It should empower you to shape it.”
